@@ -1,0 +1,9 @@
+#!/usr/bin/env ruby
+
+require 'pathname'
+require 'bundler/setup'
+
+$:.unshift(Pathname.new(__FILE__).join('..', '..', 'lib').expand_path.to_s)
+require 'buzz_catcher'
+
+BuzzCatcher.start

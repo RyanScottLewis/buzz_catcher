@@ -1,0 +1,76 @@
+---
+- matches:
+    - truestory
+    - true
+  urls:
+    - https://i.imgur.com/QanrHU2.png
+- matches:
+    - iunderstoodthatreference
+    - reference
+    - iknowthatreference
+    - gotthatreference
+  urls:
+    - http://i.imgur.com/jrhY2IW.gif
+- matches:
+    - aliens
+  urls:
+    - https://i.imgur.com/yEbscSL.png
+- matches:
+    - soon
+  urls:
+    - http://i.imgur.com/pUNW5cI.gifv
+    - http://i.imgur.com/spQPvYG.gifv
+    - http://i.imgur.com/edE3xEp.gifv
+    - https://i.imgur.com/aqkP2ib.jpg
+    - https://i.imgur.com/zEWZR6E.jpg
+    - https://i.imgur.com/ZLgK9mI.jpg
+- matches:
+    - neat
+  urls:
+    - http://i.imgur.com/wyhhIYY.gif
+- matches:
+    - themoreyouknow
+    - tmyk
+  urls:
+    - http://i.imgur.com/awczpCj.gif
+- matches:
+    - thatsracist
+    - datsracist
+    - racist
+  urls:
+    - http://i.imgur.com/vz0OlTs.gif
+- matches:
+    - mybodyisready
+  urls:
+    - http://i.imgur.com/lMUBzJo.gif
+- matches:
+    - ivemadeahugemistake
+    - hugemistake
+    - imadeahugemistake
+  urls:
+    - http://i.imgur.com/thJwJbO.gif
+- matches:
+    - itsatrap
+    - akbar
+    - ackbar
+    - admiralakbar
+    - admiralackbar
+    - ackbaritsatrap
+    - trap
+    - atrap
+    - ackbartrap
+  urls:
+    - https://i.imgur.com/LaS80gb.jpg
+    - http://i.imgur.com/P9GLXKX.gifv
+- matches:
+    - thatsapenis
+    - penis
+  urls:
+    - http://gfycat.com/AngryZealousAngwantibo
+- matches:
+    - thatsmyfetish
+    - fetish
+    - myfetish
+    - thisismyfetish
+  urls:
+    - http://gfycat.com/OrnateFlawedAfricanclawedfrog
